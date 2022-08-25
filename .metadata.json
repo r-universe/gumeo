@@ -1,9 +1,5 @@
 [
   {
-    "package": "accSDA",
-    "oncran": true
-  },
-  {
     "package": "fastqq",
     "oncran": true
   }
