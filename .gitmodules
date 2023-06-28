@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "accSDA"]
 	path = accSDA
 	url = https://github.com/gumeo/accsda
-	shallow = true
-	registered = true
 [submodule "fastqq"]
 	path = fastqq
 	url = https://github.com/gumeo/fastqq
-	shallow = true
-	registered = true
